@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenas!👋
 
 I'm [Andres](https://www.linkedin.com/in/andres111/), a software engineering student at [Rochester Institute of Technology](https://www.rit.edu/study/software-engineering-bs).
 
