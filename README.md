@@ -7,4 +7,4 @@ I'm [**Andres**](https://www.linkedin.com/in/andres111/),
 
 When I am not *programming*, you can find me playing soccer, watching "Cristano Ronaldo's all time best goals" or hiking!
 
-#### Follow  my on github and linkedin :)
+#### Follow me on github and linkedin :)
